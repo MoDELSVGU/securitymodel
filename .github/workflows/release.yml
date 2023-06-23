@@ -1,4 +1,4 @@
-name: Publish Security package to the Maven Central Repository
+name: Publish Securitymodel package to the Maven Central Repository
 on:
   push:
     tags:
