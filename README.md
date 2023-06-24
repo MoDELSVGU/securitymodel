@@ -5,7 +5,7 @@ A parser from JSON representation to Java object of Security model
 <dependency>
   <groupId>io.github.modelsvgu</groupId>
   <artifactId>securitymodelj</artifactId>
-  <version>1.0.0</version>
+  <version>[1.0.0,)</version>
 </dependency>
 ```
 
